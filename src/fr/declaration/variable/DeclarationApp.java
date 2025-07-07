@@ -23,6 +23,9 @@ public class DeclarationApp {
         String q = "Hello";
         System.out.println("q = " + q);
 
+        String randomString = "Voici le resultat d'un calcul :\n1+5=6";
+        System.out.println(randomString);
+
 
     }
 
